@@ -49,5 +49,4 @@ waitress==3.0.0
 watchfiles==0.21.0
 websockets==12.0
 Werkzeug==3.0.3
-gunicorn 
-uvicorn
+
